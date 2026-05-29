@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Trend arrow in background representing wealth growth and budget limits (Turquoise accent) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M30,76 L44,62 L56,71 L78,41 L78,54 L83,54 L83,32 L61,32 L61,37 L73,37 L55,61 L43,51 L25,71 Z"/>
+    <!-- Wallet body (Highly visible clean white) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,46 C34,42.7 36.7,40 40,40 H68 C71.3,40 74,42.7 74,46 V68 C74,71.3 71.3,74 68,74 H40 C36.7,74 34,71.3 34,68 Z"/>
+    <!-- Wallet flap -->
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M56,51 C56,48.8 57.8,47 60,47 H74 V61 H60 C57.8,61 56,59.2 56,57 Z"/>
+    <!-- Flap button/fastener -->
+    <path
+        android:fillColor="#006064"
+        android:pathData="M64,54 A3,3 0 1,1 58,54 A3,3 0 1,1 64,54 Z"/>
+</vector>
